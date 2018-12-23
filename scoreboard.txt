@@ -1,0 +1,5 @@
+qqq		9	13 seconds
+ariq		9	28.0 seconds
+RF		6	12.0 seconds
+bambet		6	49.0 seconds
+rrr		3	53.0 seconds
